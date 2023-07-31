@@ -1,0 +1,22 @@
+.rocket-launch {
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.rocket-launch.twelve {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/rocketlaunch-22.svg);
+  height: 12px;
+  width: 12px;
+}
+
+.rocket-launch.twenty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/rocketlaunch-24.svg);
+  height: 20px;
+  width: 20px;
+}
+
+.rocket-launch.sixteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/rocketlaunch-23.svg);
+  height: 16px;
+  width: 16px;
+}

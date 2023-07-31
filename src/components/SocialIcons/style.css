@@ -1,0 +1,16 @@
+.social-icons {
+  display: block;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.social-icons.style-primary.type-circle.twitter {
+  transition: all 0.3s ease;
+}
+
+.social-icons.type-default.style-white.behance {
+  transition: all 0.3s ease;
+}

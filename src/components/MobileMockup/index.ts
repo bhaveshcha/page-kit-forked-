@@ -1,0 +1,1 @@
+export { MobileMockup } from "./MobileMockup";

@@ -1,0 +1,1 @@
+export { ClientLogoMark } from "./ClientLogoMark";

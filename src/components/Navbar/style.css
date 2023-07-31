@@ -1,0 +1,426 @@
+.navbar.variant-screen {
+  background-color: #f8f9ff;
+  display: flex;
+  position: relative;
+}
+
+.navbar .logo {
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navbar .television {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.navbar .landingpage {
+  color: #2d2d2d;
+  font-family: "Poppins", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27.3px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navbar .text-wrapper {
+  font-weight: 700;
+}
+
+.navbar .span {
+  color: #2d2d2d;
+  font-family: "Poppins", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27.3px;
+}
+
+.navbar .button-instance {
+  flex: 0 0 auto !important;
+}
+
+.navbar .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.navbar .navigation-menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.navbar .navigation-menu-2 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navbar .logo-2 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navbar .img {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navbar .navigation-menu-3 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navbar .highlighted-ctas {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.navbar.variant-screen-2 {
+  height: 72px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.navbar.eight {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar.desktop {
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 50px;
+  width: 1280px;
+}
+
+.navbar.four {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar.three {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar.five {
+  align-items: center;
+}
+
+.navbar.six {
+  align-items: center;
+}
+
+.navbar.mobile {
+  width: 375px;
+}
+
+.navbar.seven {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar.two {
+  align-items: center;
+}
+
+.navbar.tablet {
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+  width: 744px;
+}
+
+.navbar.one.mobile {
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.navbar.eight.mobile {
+  padding: 20px 30px;
+}
+
+.navbar.four.mobile {
+  padding: 20px;
+}
+
+.navbar.two.mobile {
+  padding: 20px;
+}
+
+.navbar.seven.mobile {
+  padding: 20px 30px;
+}
+
+.navbar.three.mobile {
+  padding: 20px;
+}
+
+.navbar.six.mobile {
+  padding: 20px;
+}
+
+.navbar.five.mobile {
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.variant-screen.desktop .logo {
+  align-items: center;
+}
+
+.variant-screen.four .logo {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.three .logo {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.five .logo {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.six .logo {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.two .logo {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.one .logo {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.eight.mobile .logo {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.tablet.seven .logo {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.tablet.eight .logo {
+  align-items: center;
+  gap: 20px;
+}
+
+.variant-screen.seven.mobile .logo {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.seven.desktop .logo {
+  gap: 50px;
+}
+
+.variant-screen.eight.desktop .logo {
+  gap: 50px;
+}
+
+.variant-screen.eight .navigation-menu-2 {
+  align-items: center;
+  gap: 50px;
+}
+
+.variant-screen.four .navigation-menu-2 {
+  align-items: center;
+  gap: 50px;
+  justify-content: flex-end;
+}
+
+.variant-screen.three .navigation-menu-2 {
+  align-items: center;
+  gap: 50px;
+  justify-content: flex-end;
+}
+
+.variant-screen.five .navigation-menu-2 {
+  align-items: center;
+  gap: 50px;
+  justify-content: flex-end;
+}
+
+.variant-screen.six .navigation-menu-2 {
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.variant-screen.mobile .navigation-menu-2 {
+  align-items: center;
+  gap: 50px;
+}
+
+.variant-screen.two .navigation-menu-2 {
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.variant-screen.tablet .navigation-menu-2 {
+  align-items: center;
+}
+
+.variant-screen.one .navigation-menu-2 {
+  align-items: center;
+  gap: 50px;
+  justify-content: flex-end;
+}
+
+.variant-screen.tablet.two .navigation-menu-2 {
+  gap: 30px;
+}
+
+.variant-screen.tablet.seven .navigation-menu-2 {
+  gap: 6px;
+}
+
+.variant-screen.two.desktop .navigation-menu-2 {
+  gap: 50px;
+}
+
+.variant-screen.six.desktop .navigation-menu-2 {
+  gap: 50px;
+}
+
+.variant-screen.seven.desktop .navigation-menu-2 {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.tablet.six .navigation-menu-2 {
+  gap: 30px;
+}
+
+.variant-screen.desktop .logo-2 {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.tablet .logo-2 {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.mobile .logo-2 {
+  align-items: center;
+  gap: 6px;
+}
+
+.variant-screen.three .navigation-menu-3 {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.five .navigation-menu-3 {
+  justify-content: flex-end;
+}
+
+.variant-screen.mobile .navigation-menu-3 {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.variant-screen.one .navigation-menu-3 {
+  justify-content: flex-end;
+}
+
+.variant-screen.tablet.two .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.tablet.seven .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.tablet.eight .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.five.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.tablet.one .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.two.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.six.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.seven.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.four.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.five.tablet .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.eight.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.one.desktop .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.tablet.six .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}
+
+.variant-screen.tablet.four .navigation-menu-3 {
+  align-items: center;
+  gap: 30px;
+}

@@ -1,0 +1,266 @@
+.member-card {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 34.85px 29.63px 48.34px #3265ff0d;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.member-card .profile-image {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.member-card .text-4 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #d7d7d7;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 30px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.member-card .john-doe-2 {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: var(--display-XS-font-family);
+  font-size: var(--display-XS-font-size);
+  font-style: var(--display-XS-font-style);
+  font-weight: var(--display-XS-font-weight);
+  letter-spacing: var(--display-XS-letter-spacing);
+  line-height: var(--display-XS-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.member-card .lead-designer {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: "Mulish", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: relative;
+  text-align: center;
+}
+
+.member-card .social-links {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.member-card .social-icons-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.member-card .client-info-item {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.member-card .profile-image-2 {
+  height: 100px;
+  object-fit: cover;
+  position: relative;
+  width: 100px;
+}
+
+.member-card .person-details-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 100%;
+}
+
+.member-card .john-doe-3 {
+  align-self: stretch;
+  color: var(--neutral-900);
+  font-family: "Poppins", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 27.3px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.member-card .senior-product {
+  align-self: stretch;
+  color: var(--neutral-700);
+  font-family: "Mulish", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.member-card .with-over-a-decade-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.member-card .with-over-a-decade {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: "Mulish", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.member-card .social-link {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.member-card .twitter-2 {
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 83.33px;
+}
+
+.member-card .dribbble {
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  width: 83.33px;
+}
+
+.member-card .linkedin {
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  width: 83.33px;
+}
+
+.member-card.variant-9-two {
+  border: 1px solid;
+  border-color: var(--cta-aqua-squeeze);
+}
+
+.member-card.size-3-big {
+  width: 370px;
+}
+
+.member-card.variant-9-one {
+  gap: 20px;
+  justify-content: center;
+  padding: 0px 0px 30px;
+}
+
+.member-card.size-3-small {
+  gap: 20px;
+  width: 230px;
+}
+
+.member-card.size-3-big.variant-9-two {
+  gap: 30px;
+  padding: 40px 30px;
+}
+
+.member-card.size-3-small.variant-9-two {
+  padding: 30px 20px;
+}
+
+.member-card.size-3-big .profile-image {
+  height: 278px;
+}
+
+.member-card.size-3-small .profile-image {
+  height: 173px;
+}
+
+.member-card.size-3-big .social-link {
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.member-card.size-3-small .social-link {
+  align-items: center;
+  flex-direction: column;
+}
+
+.member-card.size-3-big .twitter-2 {
+  color: #009379;
+}
+
+.member-card.size-3-small .twitter-2 {
+  color: var(--cta-observatory);
+}
+
+.member-card.size-3-big .dribbble {
+  color: #009379;
+  margin-top: -1px;
+}
+
+.member-card.size-3-small .dribbble {
+  color: var(--cta-observatory);
+}
+
+.member-card.size-3-big .linkedin {
+  color: #009379;
+  margin-top: -1px;
+}
+
+.member-card.size-3-small .linkedin {
+  color: var(--cta-observatory);
+}

@@ -1,0 +1,33 @@
+.star-rating {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 5px;
+  position: relative;
+}
+
+.star-rating .star-icon-instance {
+  height: 25.1px !important;
+  left: unset !important;
+  margin-bottom: -1.01px !important;
+  margin-top: -1px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 25.99px !important;
+}
+
+.star-rating .empty-star-icon {
+  height: 25.1px;
+  margin-bottom: -1.01px;
+  margin-top: -1px;
+  position: relative;
+  width: 25.99px;
+}
+
+.star-rating .empty-star-icon-2 {
+  height: 25.1px;
+  margin-bottom: -1.01px;
+  margin-right: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 25.99px;
+}

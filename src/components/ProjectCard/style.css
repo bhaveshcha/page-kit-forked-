@@ -1,0 +1,119 @@
+.project-card {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 34.85px 29.63px 48.34px #3265ff0d;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0px 0px 30px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.project-card .image-placeholder {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.project-card .text-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.project-card .project-title {
+  align-self: stretch;
+  color: #2d2d2d;
+  margin-top: -1px;
+  position: relative;
+}
+
+.project-card .short-description {
+  align-self: stretch;
+  color: #2d2d2d;
+  position: relative;
+}
+
+.project-card .category {
+  align-self: stretch;
+  color: #2d2d2d;
+  position: relative;
+}
+
+.project-card.big {
+  width: 370px;
+}
+
+.project-card.small {
+  width: 230px;
+}
+
+.project-card.big .image-placeholder {
+  height: 278px;
+}
+
+.project-card.small .image-placeholder {
+  height: 173px;
+}
+
+.project-card.big .project-title {
+  font-family: var(--display-s-font-family);
+  font-size: var(--display-s-font-size);
+  font-style: var(--display-s-font-style);
+  font-weight: var(--display-s-font-weight);
+  letter-spacing: var(--display-s-letter-spacing);
+  line-height: var(--display-s-line-height);
+}
+
+.project-card.small .project-title {
+  font-family: var(--display-XS-font-family);
+  font-size: var(--display-XS-font-size);
+  font-style: var(--display-XS-font-style);
+  font-weight: var(--display-XS-font-weight);
+  letter-spacing: var(--display-XS-letter-spacing);
+  line-height: var(--display-XS-line-height);
+}
+
+.project-card.big .short-description {
+  font-family: "Mulish", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.project-card.small .short-description {
+  font-family: var(--body-m-font-family);
+  font-size: var(--body-m-font-size);
+  font-style: var(--body-m-font-style);
+  font-weight: var(--body-m-font-weight);
+  letter-spacing: var(--body-m-letter-spacing);
+  line-height: var(--body-m-line-height);
+}
+
+.project-card.big .category {
+  font-family: var(--body-m-font-family);
+  font-size: var(--body-m-font-size);
+  font-style: var(--body-m-font-style);
+  font-weight: var(--body-m-font-weight);
+  letter-spacing: var(--body-m-letter-spacing);
+  line-height: var(--body-m-line-height);
+}
+
+.project-card.small .category {
+  font-family: var(--body-s-font-family);
+  font-size: var(--body-s-font-size);
+  font-style: var(--body-s-font-style);
+  font-weight: var(--body-s-font-weight);
+  letter-spacing: var(--body-s-letter-spacing);
+  line-height: var(--body-s-line-height);
+}

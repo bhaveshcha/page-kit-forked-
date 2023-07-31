@@ -1,0 +1,296 @@
+.testimonial-card {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--cta-aqua-squeeze);
+  border-radius: 20px;
+  box-shadow: 34.85px 29.63px 48.34px #3265ff0d;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.testimonial-card .testimonial-info {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.testimonial-card .client-info {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  margin-left: -12.5px;
+  margin-right: -12.5px;
+  position: relative;
+  width: 280px;
+}
+
+.testimonial-card .photo {
+  height: 56px;
+  object-fit: cover;
+  position: relative;
+  width: 56px;
+}
+
+.testimonial-card .person-details {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 100%;
+}
+
+.testimonial-card .john-doe {
+  align-self: stretch;
+  color: var(--neutral-900);
+  font-family: var(--display-XS-font-family);
+  font-size: var(--display-XS-font-size);
+  font-style: var(--display-XS-font-style);
+  font-weight: var(--display-XS-font-weight);
+  letter-spacing: var(--display-XS-letter-spacing);
+  line-height: var(--display-XS-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.testimonial-card .vice-president {
+  align-self: stretch;
+  color: var(--neutral-700);
+  font-family: var(--body-s-font-family);
+  font-size: var(--body-s-font-size);
+  font-style: var(--body-s-font-style);
+  font-weight: var(--body-s-font-weight);
+  letter-spacing: var(--body-s-letter-spacing);
+  line-height: var(--body-s-line-height);
+  position: relative;
+  text-align: center;
+}
+
+.testimonial-card .write-short-specific-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.testimonial-card .write-short-specific {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: var(--body-m-font-family);
+  font-size: var(--body-m-font-size);
+  font-style: var(--body-m-font-style);
+  font-weight: var(--body-m-font-weight);
+  letter-spacing: var(--body-m-letter-spacing);
+  line-height: var(--body-m-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.testimonial-card .star-rating-instance {
+  height: 25.1px !important;
+  left: unset !important;
+  margin-bottom: -1.01px !important;
+  margin-top: -1px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 25.99px !important;
+}
+
+.testimonial-card .star-rating-2 {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+
+.testimonial-card .testimonial-info-2 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 30px;
+  justify-content: center;
+  position: relative;
+}
+
+.testimonial-card .client-info-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.testimonial-card .photo-2 {
+  object-fit: cover;
+  position: relative;
+}
+
+.testimonial-card .text-star-rating {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.testimonial-card .write-short-specific-2 {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: var(--body-m-font-family);
+  font-size: var(--body-m-font-size);
+  font-style: var(--body-m-font-style);
+  font-weight: var(--body-m-font-weight);
+  letter-spacing: var(--body-m-letter-spacing);
+  line-height: var(--body-m-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.testimonial-card .star-rating-3 {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.testimonial-card .star-rating-4 {
+  height: 25.1px !important;
+  left: unset !important;
+  margin-bottom: -1.01px !important;
+  margin-left: -1px !important;
+  margin-top: -1px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 25.99px !important;
+}
+
+.testimonial-card .anima-s-landing-page {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: var(--body-m-font-family);
+  font-size: var(--body-m-font-size);
+  font-style: var(--body-m-font-style);
+  font-weight: var(--body-m-font-weight);
+  letter-spacing: var(--body-m-letter-spacing);
+  line-height: var(--body-m-line-height);
+  position: relative;
+}
+
+.testimonial-card.vertical {
+  display: flex;
+  padding: 40px 30px;
+  width: 315px;
+}
+
+.testimonial-card.horizontal-big-photo {
+  display: flex;
+  padding: 40px;
+  width: 570px;
+}
+
+.testimonial-card.horizontal {
+  display: inline-flex;
+  padding: 40px 30px;
+}
+
+.testimonial-card.default {
+  display: flex;
+  padding: 40px 30px;
+  width: 315px;
+}
+
+.testimonial-card.vertical .testimonial-info-2 {
+  display: flex;
+}
+
+.testimonial-card.horizontal-big-photo .testimonial-info-2 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.testimonial-card.horizontal .testimonial-info-2 {
+  display: inline-flex;
+}
+
+.testimonial-card.default .testimonial-info-2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.testimonial-card.vertical .client-info-2 {
+  width: 180px;
+}
+
+.testimonial-card.horizontal-big-photo .client-info-2 {
+  width: 180px;
+}
+
+.testimonial-card.horizontal .client-info-2 {
+  width: 280px;
+}
+
+.testimonial-card.default .client-info-2 {
+  flex: 0 0 auto;
+  width: 180px;
+}
+
+.testimonial-card.vertical .photo-2 {
+  height: 120px;
+  width: 120px;
+}
+
+.testimonial-card.horizontal-big-photo .photo-2 {
+  height: 120px;
+  width: 120px;
+}
+
+.testimonial-card.horizontal .photo-2 {
+  height: 56px;
+  width: 56px;
+}
+
+.testimonial-card.default .photo-2 {
+  height: 120px;
+  width: 120px;
+}
+
+.testimonial-card.horizontal-big-photo .text-star-rating {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.testimonial-card.horizontal .text-star-rating {
+  width: 310px;
+}
+
+.testimonial-card.default .text-star-rating {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.testimonial-card.default .write-short-specific-2 {
+  text-align: center;
+}

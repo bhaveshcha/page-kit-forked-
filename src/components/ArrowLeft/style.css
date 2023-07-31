@@ -1,0 +1,22 @@
+.arrow-left {
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.arrow-left.size-0-twelve {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/arrowleft-1.svg);
+  height: 12px;
+  width: 12px;
+}
+
+.arrow-left.size-0-twenty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/arrowleft-3.svg);
+  height: 20px;
+  width: 20px;
+}
+
+.arrow-left.size-0-sixteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/arrowleft-2.svg);
+  height: 16px;
+  width: 16px;
+}

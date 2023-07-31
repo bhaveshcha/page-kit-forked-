@@ -1,0 +1,196 @@
+.mobile-mockup {
+  border-radius: 53.32px;
+  box-shadow: inset -4px -9px 7px #0000001a, 18.77px 25.33px 35.55px #00000026;
+  height: 750px;
+  width: 390px;
+}
+
+.mobile-mockup .overlap-group {
+  height: 763px;
+  left: -8px;
+  position: relative;
+  top: -7px;
+  width: 407px;
+}
+
+.mobile-mockup .button-2 {
+  border: 0.09px solid;
+  border-color: #d7d7d7;
+  border-radius: 5.15px;
+  height: 95px;
+  left: 395px;
+  position: absolute;
+  top: 157px;
+  width: 12px;
+}
+
+.mobile-mockup .button-3 {
+  border: 0.09px solid;
+  border-color: #d7d7d7;
+  border-radius: 5.15px;
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 233px;
+  width: 12px;
+}
+
+.mobile-mockup .button-4 {
+  border: 0.09px solid;
+  border-color: #d7d7d7;
+  border-radius: 5.15px;
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 153px;
+  width: 12px;
+}
+
+.mobile-mockup .button-5 {
+  border: 0.09px solid;
+  border-color: #d7d7d7;
+  border-radius: 5.15px;
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 103px;
+  width: 12px;
+}
+
+.mobile-mockup .device {
+  border: 1px solid;
+  border-radius: 70px;
+  height: 763px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.mobile-mockup .insert-your-screen {
+  border: 1px solid;
+  border-color: #2d2d2d;
+  border-radius: 60px;
+  box-shadow: inset 1px 1px 2px #00000040;
+  height: 730px;
+  left: 19px;
+  position: absolute;
+  width: 368px;
+}
+
+.mobile-mockup .top-speaker {
+  border-radius: 100px;
+  height: 26px;
+  left: 143px;
+  position: absolute;
+  top: 26px;
+  width: 120px;
+}
+
+.mobile-mockup .rectangle {
+  background-color: #cfcfcf;
+  border-radius: 8px;
+  height: 4px;
+  left: 31px;
+  position: absolute;
+  top: 11px;
+  width: 54px;
+}
+
+.mobile-mockup .ellipse {
+  background-color: #cfcfcf;
+  border-radius: 2px;
+  height: 4px;
+  left: 89px;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+
+.mobile-mockup .black {
+  background: linear-gradient(180deg, rgb(45, 45, 45) 0%, rgb(113.69, 111.32, 111.32) 54.62%, rgb(45, 45, 45) 100%);
+}
+
+.mobile-mockup .white {
+  background: linear-gradient(
+    180deg,
+    rgb(215.99, 215.99, 215.99) 0%,
+    rgb(255, 255, 255) 54.62%,
+    rgb(215.99, 215.99, 215.99) 100%
+  );
+}
+
+.mobile-mockup .color-black {
+  background: linear-gradient(180deg, rgb(45, 45, 45) 0%, rgb(113.69, 111.32, 111.32) 54.62%, rgb(45, 45, 45) 100%);
+}
+
+.mobile-mockup .color-white {
+  background: linear-gradient(
+    180deg,
+    rgb(215.99, 215.99, 215.99) 0%,
+    rgb(255, 255, 255) 54.62%,
+    rgb(215.99, 215.99, 215.99) 100%
+  );
+}
+
+.mobile-mockup .color-0-black {
+  background: linear-gradient(180deg, rgb(45, 45, 45) 0%, rgb(113.69, 111.32, 111.32) 54.62%, rgb(45, 45, 45) 100%);
+}
+
+.mobile-mockup .color-0-white {
+  background: linear-gradient(
+    180deg,
+    rgb(215.99, 215.99, 215.99) 0%,
+    rgb(255, 255, 255) 54.62%,
+    rgb(215.99, 215.99, 215.99) 100%
+  );
+}
+
+.mobile-mockup .color-1-black {
+  background: linear-gradient(180deg, rgb(45, 45, 45) 0%, rgb(113.69, 111.32, 111.32) 54.62%, rgb(45, 45, 45) 100%);
+}
+
+.mobile-mockup .color-1-white {
+  background: linear-gradient(
+    180deg,
+    rgb(215.99, 215.99, 215.99) 0%,
+    rgb(255, 255, 255) 54.62%,
+    rgb(215.99, 215.99, 215.99) 100%
+  );
+}
+
+.mobile-mockup .color-2-black {
+  background: linear-gradient(180deg, rgb(45, 45, 45) 0%, rgb(113.69, 111.32, 111.32) 54.62%, rgb(45, 45, 45) 100%);
+  border-color: #d7d7d7;
+}
+
+.mobile-mockup .color-2-white {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255) 0%,
+    rgb(210.42, 210.42, 210.42) 63.02%,
+    rgb(255, 255, 255) 100%
+  );
+  border-color: #d1d1d1;
+}
+
+.mobile-mockup .color-3-black {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/insert-your-mockup-image-here-12.png);
+  background-size: 100% 100%;
+  top: 16px;
+}
+
+.mobile-mockup .color-3-white {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/insert-your-mockup-image-here-11.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  top: 17px;
+}
+
+.mobile-mockup .color-4-black {
+  background-color: #2d2d2d;
+}
+
+.mobile-mockup .color-4-white {
+  background-color: #ffffff;
+}

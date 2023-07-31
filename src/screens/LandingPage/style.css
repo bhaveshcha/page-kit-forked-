@@ -1,0 +1,72 @@
+.landing-page {
+  align-items: center;
+  background-color: #f7f9ff;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.landing-page .design-component-instance-node-2 {
+  align-self: stretch !important;
+  background-color: #f8d57e !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.landing-page .rocket-launch-4 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/rocketlaunch-2.svg) !important;
+}
+
+.landing-page .rocket-launch-5 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/rocketlaunch-1.svg) !important;
+}
+
+.landing-page .design-component-instance-node-3 {
+  flex: 0 0 auto !important;
+}
+
+.landing-page .features-instance {
+  font-family: "Poppins", Helvetica !important;
+  font-size: 38px !important;
+  font-style: unset !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.76px !important;
+  line-height: 49.4px !important;
+}
+
+.landing-page .logo-bar-instance {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/logo-13@2x.png) !important;
+  position: relative !important;
+}
+
+.landing-page .logo-bar-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/logo-10@2x.png) !important;
+  position: relative !important;
+}
+
+.landing-page .highlighted-CTA-instance {
+  align-items: center !important;
+}
+
+.landing-page .rocket-launch-6 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e6de5936eab2f8d0051f2bd4ac889f3/img/rocketlaunch-30.svg) !important;
+  height: 20px !important;
+  width: 20px !important;
+}
+
+.landing-page .footer-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  mix-blend-mode: normal !important;
+  width: 100% !important;
+}
+
+.landing-page .footer-2 {
+  font-family: "Mulish", Helvetica !important;
+  font-size: 14px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+}

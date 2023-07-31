@@ -1,0 +1,66 @@
+.footer {
+  background-color: #2d2d2d;
+  display: flex;
+  position: relative;
+}
+
+.footer .element-anima-landing {
+  color: #ffffff;
+  font-family: var(--body-s-font-family);
+  font-size: var(--body-s-font-size);
+  font-style: var(--body-s-font-style);
+  font-weight: var(--body-s-font-weight);
+  letter-spacing: var(--body-s-letter-spacing);
+  line-height: var(--body-s-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .social-links-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.footer .social-icons-2 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.footer .element-anima-landing-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--body-s-font-family);
+  font-size: var(--body-s-font-size);
+  font-style: var(--body-s-font-style);
+  font-weight: var(--body-s-font-weight);
+  letter-spacing: var(--body-s-letter-spacing);
+  line-height: var(--body-s-line-height);
+  position: relative;
+}
+
+.footer.screen-151-desktop {
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 60px;
+  width: 1280px;
+}
+
+.footer.screen-151-tablet {
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 30px;
+  width: 744px;
+}
+
+.footer.screen-151-mobile {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+  padding: 24px 20px;
+  width: 375px;
+}
